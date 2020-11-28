@@ -6,7 +6,7 @@ const navigation = (props) => {
       <div class="container-fluid">
         <div class="navbar-header">
           <a class="navbar-brand" href="#">
-            WebSiteName
+            demo
           </a>
         </div>
         <ul class="nav navbar-nav">
